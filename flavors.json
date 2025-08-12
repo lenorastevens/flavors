@@ -1,0 +1,31 @@
+{
+  "flavors": {
+    "flavor": [
+      {
+        "name": "Mango",
+        "description": "cool refreshing tropical mango witht the perfect balance of sweetness and protein.",
+        "image": "MANGO GALLERY TRANSPARENT TILTED.png"
+      },
+      {
+        "name": "Ice Berry",
+        "description": "Some great description of the product",
+        "image": "ICY BERRY GALLERY TRANSPARENT TILTED.png"
+      },
+      {
+        "name": "Citrus Frost",
+        "description": "Some great description of the product",
+        "image": "CITRUS FROST GALLERY TRANSPARENT TILTED.png"
+      },
+      {
+        "name": "Island Kiwi",
+        "description": "Some great description of the product",
+        "image": "ISLAND KIWI GALLERY TRANSPARENT TILTED.png"
+      },
+      {
+        "name": "Strawberry",
+        "description": "Some great description of the product",
+        "image": "STRAWBERRY GALLERY TRANSPARENT TILTED.png"
+      }
+    ]
+  }
+}
